@@ -59,6 +59,8 @@ Useful links to create a wireframe on:
 
 This is a stretch task which will be quite challenging, but is something to take home to work on. Create a leaderboard which stores the winners/scores from each game played.
 
+To further increase your software developer skills, create some unit tests for your code. This will require you to do some individual research, but will be a good thing to talk about in interviews.
+
 ## Developers Guide
 
 * In the browser of the app: right click, select `Inspect`, then naviagate to the `Console` tab. This is where you will see any errors or if you log anything to the console.
