@@ -14,7 +14,8 @@ To check run the commands:
 5. Open up VSCode, go to `File` and `Open Folder` and locate the folder you have just created and open that.
 6. In VSCode, open up a New Terminal (run the command `pwd` to make sure you are located in your new folder)
 7. Enter the command: git clone `paste the HTTPS link from step 3 here` . This should have cloned the github repository to your new folder.
-8. Run the command `npm start` which will open up the app in the browser. 
+8. Run the command `npm i` to install required packages.
+9. Run the command `npm start` which will open up the app in the browser. 
 
 
 ## Git Help:
